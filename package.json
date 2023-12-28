@@ -1,0 +1,19 @@
+{
+  "name": "artcart",
+  "version": "1.0.0",
+  "description": "Free transactions for artists!",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"sup nerd\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ImaFruitSnack/ArtCart.git"
+  },
+  "author": "fruit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImaFruitSnack/ArtCart/issues"
+  },
+  "homepage": "https://github.com/ImaFruitSnack/ArtCart#readme"
+}
